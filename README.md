@@ -4,7 +4,7 @@ open two terminals
 
 //first terminal \*backend
 
-cd 'c:/Shri Development/Eat-N-Split'
+cd 'c://Flash-Cards'
 
 cd backend
 
@@ -14,7 +14,7 @@ node server.js
 
 //second terminal \*frontend
 
-cd 'c:/Shri Development/Eat-N-Split'
+cd 'c://Flash-Cards'
 
 cd frontend
 
